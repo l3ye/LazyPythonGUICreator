@@ -1,0 +1,11 @@
+F:\ProgrammingCorner\LazyPythonGUICreator\obj\Debug\netcoreapp3.1\LazyPythonGUICreator.csprojAssemblyReference.cache
+F:\ProgrammingCorner\LazyPythonGUICreator\obj\Debug\netcoreapp3.1\LazyPythonGUICreator.AssemblyInfoInputs.cache
+F:\ProgrammingCorner\LazyPythonGUICreator\obj\Debug\netcoreapp3.1\LazyPythonGUICreator.AssemblyInfo.cs
+F:\ProgrammingCorner\LazyPythonGUICreator\bin\Debug\netcoreapp3.1\LazyPythonGUICreator.exe
+F:\ProgrammingCorner\LazyPythonGUICreator\bin\Debug\netcoreapp3.1\LazyPythonGUICreator.deps.json
+F:\ProgrammingCorner\LazyPythonGUICreator\bin\Debug\netcoreapp3.1\LazyPythonGUICreator.runtimeconfig.json
+F:\ProgrammingCorner\LazyPythonGUICreator\bin\Debug\netcoreapp3.1\LazyPythonGUICreator.runtimeconfig.dev.json
+F:\ProgrammingCorner\LazyPythonGUICreator\bin\Debug\netcoreapp3.1\LazyPythonGUICreator.dll
+F:\ProgrammingCorner\LazyPythonGUICreator\bin\Debug\netcoreapp3.1\LazyPythonGUICreator.pdb
+F:\ProgrammingCorner\LazyPythonGUICreator\obj\Debug\netcoreapp3.1\LazyPythonGUICreator.dll
+F:\ProgrammingCorner\LazyPythonGUICreator\obj\Debug\netcoreapp3.1\LazyPythonGUICreator.pdb
